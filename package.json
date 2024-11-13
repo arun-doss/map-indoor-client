@@ -1,0 +1,15 @@
+{
+    "name": "map-your-indoor",
+    "version": "0.0.1",
+    "author": "Arun Prasad Ramanuja Doss <arunrock13@gmail.com> (http://arundoss.com)",
+    "dependencies": {
+        "ol": "10.2.1"
+    },
+    "devDependencies": {
+        "vite": "^3.2.3"
+    },
+    "scripts": {
+        "start": "vite",
+        "build": "vite build"
+    }
+}
