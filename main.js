@@ -4,6 +4,7 @@ import View from 'ol/View.js';
 import {OSM, Vector as VectorSource} from 'ol/source.js';
 import {Tile as TileLayer, Vector as VectorLayer} from 'ol/layer.js';
 import Geolocation from 'ol/Geolocation.js';
+import { SearchExtent, SearchWidget } from './SearchWidget/SearchWidget';
 
 
 
